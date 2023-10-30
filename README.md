@@ -63,6 +63,21 @@ To run the project, use the following command:
 npm run dev
 ```
 
+## contributing:
+
+for the author of this project, you can contribute to this project by cloning this project, checkout to the `dev branch` and create a new branch with the name of the feature you want to add, then push it to the remote repository and create a pull request to the `dev branch` and everyone will review it as soon as possible.
+
+consider this example:
+    
+```bash
+git clone -> link to the repository
+git checkout dev
+git checkout -b ft/feature-name
+git push origin ft/feature-name
+```
+
+
+
 This will start the development server, and you can access the Dripzz Ecommerce Website in your web browser at `http://localhost:5173`.
 
 ## Authors:
