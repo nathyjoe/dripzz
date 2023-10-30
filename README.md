@@ -24,10 +24,8 @@ Dripzz is an ecommerce website that offers a wide range of products for fashion 
 - View product details, including images, descriptions, and prices.
 - Add products to the shopping cart.
 - Manage the shopping cart: add, remove, or change quantities.
-- Secure checkout process with payment integration.
 - User authentication and profile management.
-- Order history and tracking.
-- Admin panel for product and user management (if applicable).
+- <b>Other features to be add after completing the features above</b>
 
 ## Technologies Used
 
