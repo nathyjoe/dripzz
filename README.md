@@ -2,6 +2,8 @@
 
 ![dripzz-logo](https://github.com/HIRWA13/dripzz/assets/117777634/d0f97a46-507c-44e7-adcf-4403b31d04ff)
 
+## live link: [Dripzz](https://dripzz.netlify.app/)
+
 Welcome to the Dripzz Ecommerce Website project. This project is built using React, Tailwind CSS, and JavaScript, and it integrates with a backend to generate and display product data. In this README, you'll find information about the project, how to set it up, and how to get started.
 
 ## Table of Contents
