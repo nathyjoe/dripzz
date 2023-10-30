@@ -69,7 +69,4 @@ This will start the development server, and you can access the Dripzz Ecommerce 
 
 ## Authors:
 - [Junior Hirwa](https://github.com/HIRWA13)
-
-## License
-
 ---
