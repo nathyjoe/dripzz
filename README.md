@@ -1,5 +1,6 @@
 # Dripzz Ecommerce Website Project
 
+![dripzz-logo](https://github.com/HIRWA13/dripzz/assets/117777634/d0f97a46-507c-44e7-adcf-4403b31d04ff)
 
 Welcome to the Dripzz Ecommerce Website project, featured by ALX Learners! This project is built using React, Tailwind CSS, and JavaScript, and it integrates with a backend to generate and display product data. In this README, you'll find information about the project, how to set it up, and how to get started.
 
@@ -70,7 +71,5 @@ This will start the development server, and you can access the Dripzz Ecommerce 
 - [Junior Hirwa](https://github.com/HIRWA13)
 
 ## License
-
-This project is licensed under the MIT License. See the [LICENSE] file for more details.
 
 ---
