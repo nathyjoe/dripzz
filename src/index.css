@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  main {
+    @apply flex h-full px-4 flex-col bg-primaryBlue;
+  }
+  section {
+    @apply flex-1;
+  }
+}
